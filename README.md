@@ -2,6 +2,8 @@
 
 ![Dashboard Preview](dashboard.png)
 
+https://ascendra-dashboard-wijn.vercel.app/
+
 A cloud infrastructure management platform designed for two distinct user groups: developers managing their own virtual environments and DevOps administrators monitoring resource usage and costs across the entire virtual machine fleet.
 
 Built using Next.js, shadcn/ui, Tailwind CSS, and a client-side backend powered by React Context.
